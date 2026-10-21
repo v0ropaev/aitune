@@ -1737,13 +1737,6 @@
       "severity": "error"
     },
     {
-      "column": 16,
-      "path": "aitune/torch/checkpoint/torch_checkpoint.py",
-      "name": "bad-return",
-      "concise_description": "Returned type `dict[Unknown, aitune.torch.module.wrapper_module.Module | torch.nn.modules.module.Module]` is not assignable to declared return type `dict[str, torch.nn.modules.module.Module]`",
-      "severity": "error"
-    },
-    {
       "column": 20,
       "path": "aitune/torch/checkpoint/torch_checkpoint.py",
       "name": "bad-argument-type",
